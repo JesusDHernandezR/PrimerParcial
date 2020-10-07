@@ -41,7 +41,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="LiquidacionAfiliacion.cs" />
     <Compile Include="LiquidacionRegimenContributivo.cs" />
     <Compile Include="LiquidacionRegimenSubsidiado.cs" />
     <Compile Include="Persona.cs" />
